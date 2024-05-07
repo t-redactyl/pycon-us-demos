@@ -14,8 +14,8 @@
    * Data Source > PostgreSQL 
      * Host: localhost 
      * Port: 5432 
-     * User: pycharm 
-     * Password: pycharm 
+     * User: jetbrains 
+     * Password: jetbrains 
      * Database: demo 
      * Download the missing driver files
 4. In PyCharm:
