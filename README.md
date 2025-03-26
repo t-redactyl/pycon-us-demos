@@ -1,4 +1,4 @@
-# PyCon US 2024 demos for data science
+# PyCon US 2025 demos for data science
 
 There are two demos in this repo:
 * `airlines-analysis` which is designed to show off data exploration with tabular data; and
